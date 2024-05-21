@@ -32,8 +32,9 @@ macOS security settings often block applications downloaded from the internet th
    git clone https://github.com/Crushoverride007/AllowApps AllowApps/
 
 2. **Navigate to the Script Directory**
-   1. Change into the directory of the cloned repository:
-   2. cd AllowApps/
+   - Change into the directory of the cloned repository:
+    ```sh
+    cd AllowApps/
 
 3. **Make the Script Executable**
    - Make the script executable by running:
