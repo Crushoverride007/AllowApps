@@ -6,7 +6,7 @@ This script helps to bypass the macOS security setting that blocks applications 
 
 ## Why Do You Need This Script?
 
-macOS security settings often block applications downloaded from the internet that aren’t from identified developers. This script simplifies the process of allowing these applications by:
+macOS security settings often block applications downloaded from the internet that aren’t from identified developers. Typically, after moving the application to the Applications folder, the app needs to be manually verified in the macOS security settings. This script simplifies the process of allowing these applications by:
 
 1. Adding the application to the security exceptions.
 2. Removing quarantine attributes.
@@ -24,6 +24,7 @@ macOS security settings often block applications downloaded from the internet th
 
 -  macOS with administrative access.
 -  Terminal access. (iTerm or any Terminal Client)
+-  Moving the Application **"in question"** to the `/Applications` folder
 
 ## Steps to Download and Install
 
