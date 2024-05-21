@@ -1,0 +1,23 @@
+# Ignore macOS related files
+.DS_Store
+
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore application output directories
+dist/
+build/
+
+# Ignore IDE and editor specific files
+.idea/
+.vscode/
+
+# Ignore environment variable files
+.env
+
