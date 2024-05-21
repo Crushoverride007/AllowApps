@@ -32,16 +32,14 @@ macOS security settings often block applications downloaded from the internet th
 2. **Navigate to the Script Directory**
    1. Change into the directory of the cloned repository:
    2. cd AllowApps/
-<br>
+
 3. **Make the Script Executable**
    - Make the script executable by running:
-<br>
    ```sh
    chmod +x allow_app_from_applications.sh
 
 4. **Run the Script**
    - Execute the script with administrative privileges:
-<br>
     ```sh
     sudo ./allow_app_from_applications.sh
     ```
