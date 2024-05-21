@@ -59,3 +59,7 @@ Once the script is running, follow these steps to allow an app from an unidentif
      -  Update the system policy database.
 	
 4.	Verify that the application can now be opened without macOS security warnings.
+
+# Contributing
+
+Feel free to submit issues, fork the repository, and send pull requests. For major changes, please open an issue first to discuss what you would like to change.
