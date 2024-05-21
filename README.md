@@ -6,7 +6,9 @@ This script helps to bypass the macOS security setting that blocks applications 
 
 ## Why Do You Need This Script?
 
-macOS security settings often block applications downloaded from the internet that aren’t from identified developers. Typically, after moving the application to the Applications folder, the app needs to be manually verified in the macOS security settings. This script simplifies the process of allowing these applications by:
+macOS security settings often block applications downloaded from the internet that aren’t from identified developers. Typically, after moving the application to the Applications folder, the app needs to be manually verified in the macOS security settings, and to answer the question of **"How can I “Open an app from an unidentified developer” without using the GUI?"**
+
+This script simplifies the process of allowing these applications by:
 
 1. Adding the application to the security exceptions.
 2. Removing quarantine attributes.
