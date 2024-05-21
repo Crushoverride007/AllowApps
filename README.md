@@ -1,5 +1,7 @@
 # Unidentified Applications Allow Script for macOS
 
+## Overview
+
 This script helps to bypass the macOS security setting that blocks applications from unidentified developers. It automates the process of adding exceptions for applications and removing their quarantine attributes, making it easier for users to open new applications without manually adjusting settings.
 
 ## Why Do You Need This Script?
@@ -36,12 +38,12 @@ macOS security settings often block applications downloaded from the internet th
 3. **Make the Script Executable**
    - Make the script executable by running:
    ```sh
-   chmod +x allow_app_from_applications.sh
+   chmod +x allowapps.sh
 
 4. **Run the Script**
    - Execute the script with administrative privileges:
     ```sh
-    sudo ./allow_app_from_applications.sh
+    sudo ./allowapps.sh
     ```
     You will be prompted to enter your password to authorize the script.
 
