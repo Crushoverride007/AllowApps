@@ -52,10 +52,20 @@ macOS security settings often block applications downloaded from the internet th
 
 Once the script is running, follow these steps to allow an app from an unidentified developer:
 
+![running the first script](images/1.png)
+
 1.	Type part of the app name to filter the list of applications. For example, typing Spot... might filter to display applications like Spotify.
 
+![Application Finding](images/2.png)
+
 2.	Select the application by entering the corresponding number from the filtered list.
-	
+
+![Application Filtering](images/3.png)
+
+![Script Execution](images/4.png)
+
+![Script Authentication](images/5.png)
+
 3.	The script will then:
      -  Add the app to the security exception list.
      -  Remove the quarantine attribute.
